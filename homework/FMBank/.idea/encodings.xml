@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Cookies.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DBsolver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DelAccountInterface.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/DepositInterface.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ExportUserInfInterface.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/FinalPDF.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ManagerMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/MoneyInterface.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/OpenBatchInterface.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Register.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ReviseInterface.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/RevisePWInterface.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TaskThead" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TransferInterface.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/UserMain.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/WithdrawInterface.java" charset="GBK" />
+  </component>
+</project>
